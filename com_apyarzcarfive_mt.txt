@@ -1,4 +1,4 @@
 [{
 	"id": "1",
-	"url": "https:\/\/moekaungkin.site"
+	"url": "https:\/\/maynoe.xyz"
 }]
